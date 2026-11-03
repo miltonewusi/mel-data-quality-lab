@@ -1,0 +1,15 @@
+error_id,error,mean_recall,min_recall,max_recall,mean_precision,detected_in_seeds,seeds
+1,Duplicate survey records,1.0,1.0,1.0,1.0,20,20
+2,Enumerator fabrication,0.65,0.5,1.0,1.0,20,20
+3,"Digit preference / heaping (land, production)",1.0,1.0,1.0,,20,20
+4,"Unit mix-ups (acres vs ha, bags vs kg)",0.963,0.93,1.0,0.818,20,20
+5,Impossible values,1.0,1.0,1.0,0.958,20,20
+6,Skip-logic violations,1.0,1.0,1.0,1.0,20,20
+7,Straight-lining on rCSI,1.0,1.0,1.0,0.971,20,20
+8,Implausible GPS (outside district / at office),1.0,1.0,1.0,0.997,20,20
+9,Income missing not-at-random,1.0,1.0,1.0,,20,20
+10,Differential panel attrition,1.0,1.0,1.0,,20,20
+11,Beneficiary double-counting across partners,0.761,0.671,0.857,0.834,20,20
+12,Date / timeliness problems,1.0,1.0,1.0,1.0,20,20
+13,Partner reports differ from raw data,1.0,1.0,1.0,1.0,20,20
+14,Sex inconsistent with household roster,1.0,1.0,1.0,1.0,20,20

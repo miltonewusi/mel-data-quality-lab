@@ -1,0 +1,15 @@
+table,indicator,dimension,records_assessed,records_flagged,pass_rate,dataset_level_flags,rating
+partner_reports,Farmers trained,Integrity,16,6,0.625,0,RED
+survey,Cross-cutting (survey),Integrity,3365,70,0.9792,0,AMBER
+survey,Cross-cutting (survey),Reliability,3365,234,0.9305,0,RED
+survey,Cross-cutting (survey),Timeliness,3365,109,0.9676,0,AMBER
+survey,Cross-cutting (survey),Validity,3365,26,0.9923,0,GREEN
+survey,FCS,Representativeness,3365,0,1.0,1,RED
+survey,FCS,Validity,3365,8,0.9976,0,GREEN
+survey,HHS,Integrity,3365,111,0.967,0,AMBER
+survey,Income / VSLA savings,Completeness,3365,0,1.0,1,RED
+survey,Maize yield,Precision,3365,0,1.0,1,RED
+survey,Maize yield,Validity,3365,103,0.9694,0,AMBER
+survey,rCSI,Reliability,3365,68,0.9798,0,AMBER
+training_log,Farmers trained,Integrity,2470,65,0.9737,0,AMBER
+training_log,Farmers trained,Validity,2470,28,0.9887,0,GREEN

@@ -1,0 +1,757 @@
+check_id,check_name,table,level,entity_key,round,field,severity,dq_dimension,indicator,maps_to,message
+R01,Duplicate HH-round,survey,record,S003629,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003640,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003608,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003636,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003607,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003621,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003627,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003637,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003611,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003601,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003630,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003602,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003606,baseline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003644,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003617,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003604,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003618,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003641,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003633,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003612,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003605,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003626,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003625,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003643,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003647,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003642,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003613,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003635,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003645,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003620,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003609,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003616,midline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003610,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003614,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003632,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003624,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003639,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003603,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003638,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003646,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003628,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003622,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003634,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003623,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003619,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003631,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003649,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003648,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R01,Duplicate HH-round,survey,record,S003615,endline,"hh_id,round",high,Integrity,Cross-cutting (survey),1,Repeat submission for same HH and round
+R02,FCS/rCSI days out of range,survey,record,S000425,baseline,fcs_*/rcsi_*,high,Validity,FCS,5,Days outside 0-7
+R02,FCS/rCSI days out of range,survey,record,S000550,baseline,fcs_*/rcsi_*,high,Validity,FCS,5,Days outside 0-7
+R02,FCS/rCSI days out of range,survey,record,S001427,midline,fcs_*/rcsi_*,high,Validity,FCS,5,Days outside 0-7
+R02,FCS/rCSI days out of range,survey,record,S001913,midline,fcs_*/rcsi_*,high,Validity,FCS,5,Days outside 0-7
+R02,FCS/rCSI days out of range,survey,record,S002094,midline,fcs_*/rcsi_*,high,Validity,FCS,5,Days outside 0-7
+R02,FCS/rCSI days out of range,survey,record,S002113,midline,fcs_*/rcsi_*,high,Validity,FCS,5,Days outside 0-7
+R02,FCS/rCSI days out of range,survey,record,S002273,midline,fcs_*/rcsi_*,high,Validity,FCS,5,Days outside 0-7
+R02,FCS/rCSI days out of range,survey,record,S003278,endline,fcs_*/rcsi_*,high,Validity,FCS,5,Days outside 0-7
+R03,Demographics out of range,survey,record,S000137,baseline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S000180,baseline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S000182,baseline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S000334,baseline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S000429,baseline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S000678,baseline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S000749,baseline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S000872,baseline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S001119,baseline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S001136,baseline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S001229,midline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S001359,midline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S001478,midline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S001598,midline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S001862,midline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S001976,midline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S002053,midline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S001962,midline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S001998,midline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S002384,midline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S002840,endline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S002975,endline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S003425,endline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S003431,endline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S003427,endline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R03,Demographics out of range,survey,record,S003557,endline,"hh_size,resp_age",high,Validity,Cross-cutting (survey),5,HH size or respondent age implausible
+R04,Yield outside plausible range,survey,record,S000155,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000164,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000230,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000328,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000406,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000414,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000417,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000307,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000501,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000648,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000796,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000864,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000857,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000855,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S000875,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S001009,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S001028,baseline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S001280,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S001558,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S001883,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S001924,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S001983,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002074,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002147,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002177,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002194,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002256,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002225,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002390,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002396,midline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002432,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002556,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002582,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002785,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002880,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002835,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002932,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S002982,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S003034,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S003081,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S003184,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S003316,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S003368,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S003500,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R04,Yield outside plausible range,survey,record,S003566,endline,maize_yield_kg_ha,high,Validity,Maize yield,4;5,"Yield outside 150-8,000 kg/ha"
+R05,Yield peer outlier,survey,record,S000147,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000155,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000164,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000230,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000328,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000406,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000414,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000417,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000307,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000415,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000434,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000494,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000501,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000648,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000735,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000747,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000796,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000864,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000857,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000855,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S000875,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S001009,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S001028,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S001046,baseline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S001261,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S001280,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S001336,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S001558,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S001715,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S001883,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S001924,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S001983,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002074,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002147,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002177,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002194,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002198,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002256,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002225,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002390,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002396,midline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002432,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002446,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002530,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002556,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002582,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002661,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002686,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002785,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002880,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002835,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002932,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002922,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S002982,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S003034,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S003081,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S003184,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S003316,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S003368,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S003500,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R05,Yield peer outlier,survey,record,S003566,endline,maize_yield_kg_ha,medium,Validity,Maize yield,4;5,Yield is a robust outlier vs district-round
+R06,Panel land-area jump,survey,record,S000074,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S000147,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S000186,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S000326,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S000321,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S000410,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S000433,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S000483,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S000494,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S000592,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S000555,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S000735,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S000747,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S001142,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S001160,baseline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S001261,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S001236,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S001318,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S001336,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S001477,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S001513,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S001715,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S001844,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002063,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002199,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002198,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002330,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002248,midline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002446,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002530,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002600,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002621,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002494,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002661,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002690,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002768,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002810,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002906,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002865,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002889,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002922,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002950,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S002990,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S003010,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S003085,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S003032,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S003225,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S003216,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S003407,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S003421,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S003451,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S003459,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S003452,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R06,Panel land-area jump,survey,record,S003479,endline,land_area_ha,medium,Validity,Maize yield,4,Land area deviates >40% from household median
+R07,Pregnancy module skip-logic,survey,record,S000064,baseline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S000110,baseline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S000608,baseline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S000620,baseline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S000671,baseline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S000842,baseline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S000859,baseline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S001095,baseline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S001230,midline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S001402,midline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S001598,midline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S001637,midline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S001738,midline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S001807,midline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S001951,midline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S001962,midline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S003058,endline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S003380,endline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S003425,endline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S003540,endline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R07,Pregnancy module skip-logic,survey,record,S003595,endline,resp_pregnant,medium,Integrity,Cross-cutting (survey),6,Pregnancy question answered by ineligible respondent
+R08,HHS frequency skip-logic,survey,record,S000007,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000041,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000144,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000154,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000212,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000240,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000222,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000290,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000313,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000391,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000382,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000464,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000511,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000465,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000589,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000584,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000682,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000714,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000701,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000765,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000697,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000729,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000890,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000928,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000944,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S000894,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001026,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001051,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001075,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001096,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001106,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001167,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001197,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001189,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001182,baseline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001228,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001249,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001288,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001309,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001329,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001324,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001365,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001357,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001474,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001531,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001578,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001526,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001585,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001602,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001806,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001760,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001915,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001909,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001903,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S001923,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002042,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002070,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002093,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002129,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002144,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002158,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002152,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002181,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002209,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002117,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002159,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002186,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002207,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002276,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002339,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002397,midline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002405,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002427,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002448,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002491,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002438,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002559,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002586,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002606,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002660,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002766,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002633,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002682,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002768,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002773,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002808,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002831,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002841,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002924,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002945,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002980,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002991,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003004,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003105,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S002953,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003131,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003177,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003148,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003186,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003256,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003276,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003253,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003311,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003292,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003374,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003260,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003323,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003512,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003513,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003548,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R08,HHS frequency skip-logic,survey,record,S003560,endline,hhs_f*,medium,Integrity,HHS,6,HHS frequency inconsistent with occurrence
+R09,rCSI straight-lining,survey,record,S000141,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000296,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000341,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000293,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000397,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000536,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000508,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000569,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000591,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000658,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000717,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000711,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000779,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000889,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000792,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S000974,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001032,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001037,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001074,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001110,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001145,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001166,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001168,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001147,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001163,baseline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001259,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001286,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001295,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001243,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001374,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001436,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001446,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001503,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001546,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001668,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001811,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001732,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001819,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001842,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001858,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001839,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001889,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S001906,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002001,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002143,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002231,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002357,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002278,midline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002479,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002511,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002519,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002641,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002719,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002734,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002748,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002795,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002809,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002870,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002899,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002928,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002984,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S002994,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S003054,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S003245,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S003430,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S003532,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S003477,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R09,rCSI straight-lining,survey,record,S003585,endline,rcsi_*,medium,Reliability,rCSI,7,All rCSI items identical
+R10,GPS outside assigned district,survey,record,S000002,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000076,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000128,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000130,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000199,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000413,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000516,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000595,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000703,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000777,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000784,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000827,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000822,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000819,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S000912,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S001021,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S001171,baseline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S001211,midline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S001278,midline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S001320,midline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S001575,midline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S001696,midline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S001656,midline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S002130,midline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S002078,midline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S002253,midline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S002358,midline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S002484,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S002504,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S002580,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S002624,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S002905,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S003026,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S003084,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S003176,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S003231,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S003302,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S003354,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R10,GPS outside assigned district,survey,record,S003509,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS outside assigned district
+R11,GPS at field office,survey,record,S002406,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002497,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002488,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002500,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002539,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002562,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002631,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002584,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002686,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002667,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002691,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002697,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002693,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002711,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002737,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002823,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002858,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002921,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002847,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002871,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002943,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S002990,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003052,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003067,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003147,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003251,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003367,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003399,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003358,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003412,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003403,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003417,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003439,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003355,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003486,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003559,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R11,GPS at field office,survey,record,S003507,endline,"gps_lat,gps_lon",medium,Reliability,Cross-cutting (survey),8,GPS within 300 m of field office
+R12,Interview outside fieldwork window,survey,record,S001105,baseline,interview_date,medium,Timeliness,Cross-cutting (survey),12,Interview outside fieldwork window
+R12,Interview outside fieldwork window,survey,record,S001112,baseline,interview_date,medium,Timeliness,Cross-cutting (survey),12,Interview outside fieldwork window
+R12,Interview outside fieldwork window,survey,record,S001130,baseline,interview_date,medium,Timeliness,Cross-cutting (survey),12,Interview outside fieldwork window
+R12,Interview outside fieldwork window,survey,record,S000577,baseline,interview_date,medium,Timeliness,Cross-cutting (survey),12,Interview outside fieldwork window
+R12,Interview outside fieldwork window,survey,record,S001200,baseline,interview_date,medium,Timeliness,Cross-cutting (survey),12,Interview outside fieldwork window
+R12,Interview outside fieldwork window,survey,record,S000615,baseline,interview_date,medium,Timeliness,Cross-cutting (survey),12,Interview outside fieldwork window
+R12,Interview outside fieldwork window,survey,record,S000866,baseline,interview_date,medium,Timeliness,Cross-cutting (survey),12,Interview outside fieldwork window
+R12,Interview outside fieldwork window,survey,record,S001077,baseline,interview_date,medium,Timeliness,Cross-cutting (survey),12,Interview outside fieldwork window
+R12,Interview outside fieldwork window,survey,record,S000008,baseline,interview_date,medium,Timeliness,Cross-cutting (survey),12,Interview outside fieldwork window
+R12,Interview outside fieldwork window,survey,record,S000590,baseline,interview_date,medium,Timeliness,Cross-cutting (survey),12,Interview outside fieldwork window
+R12,Interview outside fieldwork window,survey,record,S000532,baseline,interview_date,medium,Timeliness,Cross-cutting (survey),12,Interview outside fieldwork window
+R13,Late submission,survey,record,S000149,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000012,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003607,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000014,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000644,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000378,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000553,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003630,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000899,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000173,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000316,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000046,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000226,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000051,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000956,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000795,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000376,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000353,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000815,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000953,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000830,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000613,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000808,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001152,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S000736,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001150,baseline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003641,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003605,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001307,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001490,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001601,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003613,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003635,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001888,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001956,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001287,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002105,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001774,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003616,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001252,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001892,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001914,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001556,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001581,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001517,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001972,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001525,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001830,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002288,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001554,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001663,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002141,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002356,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S001661,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002183,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002301,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002268,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002261,midline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002409,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003610,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002720,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003622,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003203,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003649,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003098,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003217,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003057,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002542,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002936,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002524,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003547,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003473,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003461,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002717,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002718,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003314,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002815,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003482,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S002738,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003218,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003476,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003463,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003162,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003551,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003268,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R13,Late submission,survey,record,S003470,endline,submission_date,low,Timeliness,Cross-cutting (survey),12,Submitted >7 days after interview
+R14,Submission before interview,survey,record,S000060,baseline,submission_date,medium,Timeliness,Cross-cutting (survey),12,Submitted before interview
+R14,Submission before interview,survey,record,S000327,baseline,submission_date,medium,Timeliness,Cross-cutting (survey),12,Submitted before interview
+R14,Submission before interview,survey,record,S000683,baseline,submission_date,medium,Timeliness,Cross-cutting (survey),12,Submitted before interview
+R14,Submission before interview,survey,record,S000700,baseline,submission_date,medium,Timeliness,Cross-cutting (survey),12,Submitted before interview
+R14,Submission before interview,survey,record,S000695,baseline,submission_date,medium,Timeliness,Cross-cutting (survey),12,Submitted before interview
+R14,Submission before interview,survey,record,S001034,baseline,submission_date,medium,Timeliness,Cross-cutting (survey),12,Submitted before interview
+R14,Submission before interview,survey,record,S002127,midline,submission_date,medium,Timeliness,Cross-cutting (survey),12,Submitted before interview
+R14,Submission before interview,survey,record,S002310,midline,submission_date,medium,Timeliness,Cross-cutting (survey),12,Submitted before interview
+R14,Submission before interview,survey,record,S002347,midline,submission_date,medium,Timeliness,Cross-cutting (survey),12,Submitted before interview
+R14,Submission before interview,survey,record,S002185,midline,submission_date,medium,Timeliness,Cross-cutting (survey),12,Submitted before interview
+R14,Submission before interview,survey,record,S003069,endline,submission_date,medium,Timeliness,Cross-cutting (survey),12,Submitted before interview
+R14,Submission before interview,survey,record,S003304,endline,submission_date,medium,Timeliness,Cross-cutting (survey),12,Submitted before interview
+R15,Outdated form version,survey,record,S000064,baseline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S000110,baseline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S000608,baseline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S000620,baseline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S000671,baseline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S000842,baseline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S000859,baseline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S001095,baseline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S001230,midline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S001402,midline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S001637,midline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S001738,midline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S001807,midline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S001951,midline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S003058,endline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S003380,endline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S003540,endline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+R15,Outdated form version,survey,record,S003595,endline,form_version,low,Integrity,Cross-cutting (survey),6,Outdated form version
+E01,Short interview duration,survey,enumerator,ENUM_07,endline,duration_min,high,Reliability,Cross-cutting (survey),2,Median interview duration <60% of overall median (42 min)
+E01,Short interview duration,survey,enumerator,ENUM_07,midline,duration_min,high,Reliability,Cross-cutting (survey),2,Median interview duration <60% of overall median (42 min)
+E02,Cloned response vectors,survey,enumerator,ENUM_07,endline,"fcs_*,rcsi_*",high,Reliability,Cross-cutting (survey),2,Identical answer vectors repeated
+E02,Cloned response vectors,survey,enumerator,ENUM_07,midline,"fcs_*,rcsi_*",high,Reliability,Cross-cutting (survey),2,Identical answer vectors repeated
+E03,Abnormally low variance,survey,enumerator,ENUM_07,endline,fcs_score,high,Reliability,Cross-cutting (survey),2,FCS variance far below peers
+E03,Abnormally low variance,survey,enumerator,ENUM_07,midline,fcs_score,high,Reliability,Cross-cutting (survey),2,FCS variance far below peers
+D01,Digit preference (heaping),survey,dataset,dataset,,"land_area_ha,maize_prod_kg",medium,Precision,Maize yield,3,land_area_ha (0.5 ha multiples): 37% of values vs ~2% expected (p=0.0e+00); maize_prod_kg (50 kg multiples): 36% of values vs ~2% expected (p=0.0e+00)
+D02,Income missingness pattern,survey,dataset,dataset,,income_usd_month,high,Completeness,Income / VSLA savings,9,12.6% income missing; rate by FCS tercile 8.5% / 12.8% / 16.8% (p=1.9e-08) - missingness depends on welfare
+D03,Panel attrition,survey,dataset,dataset,,"hh_id,round",high,Representativeness,FCS,10,Cumulative attrition 15.4%; poorest tercile 19.9% vs best-off 10.5% (p=1.2e-03)
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01253,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01254,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01256,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01257,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01258,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01259,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01260,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01261,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01262,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01263,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01264,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01265,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01266,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01268,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01269,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01270,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01275,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01276,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01277,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,A-01280,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-00168,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-00331,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-00390,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-00459,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-00464,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-00693,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-00823,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-00826,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-00902,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-00968,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01149,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01150,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01151,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01152,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01153,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01154,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01155,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01156,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01158,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01159,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01161,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01163,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01165,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01167,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01168,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01169,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01170,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01171,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01172,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01173,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01174,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01175,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01176,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01177,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01179,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01180,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01181,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01182,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01183,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01184,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01185,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01187,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01188,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01189,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T01,Fuzzy beneficiary duplicate,training_log,record,B-01190,,full_name,high,Integrity,Farmers trained,11,Probable same person registered by both partners
+T02,Sex differs from roster,training_log,record,B-00278,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00161,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00010,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00235,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00100,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00105,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00325,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00296,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00298,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00194,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00090,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00075,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00123,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00251,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00138,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00073,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00159,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00215,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00091,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00013,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00265,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00020,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00201,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00327,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00081,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,A-00339,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00237,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+T02,Sex differs from roster,training_log,record,B-00130,,sex,medium,Validity,Farmers trained,14,Sex differs from household roster
+X01,Partner report vs raw log,partner_reports,record,Partner A|2023Q2,,reported_total_trained,high,Integrity,Farmers trained,13,Reported total differs from raw log by >5%
+X01,Partner report vs raw log,partner_reports,record,Partner A|2024Q2,,reported_total_trained,high,Integrity,Farmers trained,13,Reported total differs from raw log by >5%
+X01,Partner report vs raw log,partner_reports,record,Partner A|2025Q1,,reported_total_trained,high,Integrity,Farmers trained,13,Reported total differs from raw log by >5%
+X01,Partner report vs raw log,partner_reports,record,Partner B|2024Q3,,reported_total_trained,high,Integrity,Farmers trained,13,Reported total differs from raw log by >5%
+X02,Partner report arithmetic,partner_reports,record,Partner A|2024Q2,,"reported_female,reported_male",medium,Integrity,Farmers trained,13,Female + male != total
+X02,Partner report arithmetic,partner_reports,record,Partner B|2023Q2,,"reported_female,reported_male",medium,Integrity,Farmers trained,13,Female + male != total
+X02,Partner report arithmetic,partner_reports,record,Partner B|2023Q4,,"reported_female,reported_male",medium,Integrity,Farmers trained,13,Female + male != total
+B01,Back-check discrepancy,survey,enumerator,ENUM_07,,back-check items,high,Reliability,Cross-cutting (survey),2,>= 2 re-interviews with major discrepancies

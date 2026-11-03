@@ -1,0 +1,27 @@
+check_id,check_name,level,flagged,injected_issue_hits,precision
+B01,Back-check discrepancy,enumerator,1,1.0,1.0
+D01,Digit preference (heaping),dataset,1,,
+D02,Income missingness pattern,dataset,1,,
+D03,Panel attrition,dataset,1,,
+E01,Short interview duration,enumerator,1,1.0,1.0
+E02,Cloned response vectors,enumerator,1,1.0,1.0
+E03,Abnormally low variance,enumerator,1,1.0,1.0
+R01,Duplicate HH-round,record,49,49.0,1.0
+R02,FCS/rCSI days out of range,record,8,8.0,1.0
+R03,Demographics out of range,record,26,26.0,1.0
+R04,Yield outside plausible range,record,45,45.0,1.0
+R05,Yield peer outlier,record,61,55.0,0.902
+R06,Panel land-area jump,record,54,36.0,0.667
+R07,Pregnancy module skip-logic,record,21,21.0,1.0
+R08,HHS frequency skip-logic,record,111,111.0,1.0
+R09,rCSI straight-lining,record,68,67.0,0.985
+R10,GPS outside assigned district,record,39,39.0,1.0
+R11,GPS at field office,record,37,37.0,1.0
+R12,Interview outside fieldwork window,record,11,11.0,1.0
+R13,Late submission,record,86,86.0,1.0
+R14,Submission before interview,record,12,12.0,1.0
+R15,Outdated form version,record,18,18.0,1.0
+T01,Fuzzy beneficiary duplicate,record,65,55.0,0.846
+T02,Sex differs from roster,record,28,28.0,1.0
+X01,Partner report vs raw log,record,4,4.0,1.0
+X02,Partner report arithmetic,record,3,3.0,1.0

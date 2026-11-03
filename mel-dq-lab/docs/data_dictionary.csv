@@ -1,0 +1,77 @@
+table,column,type,description,unit_or_values,indicator,derived
+survey,submission_id,string,Unique submission identifier (server-assigned),,,N
+survey,hh_id,string,Household ID,HH0001-HH1200,,N
+survey,round,category,Survey round,baseline|midline|endline,,N
+survey,district,category,District,Northvale|Eastmere|Southridge|Westbrook,,N
+survey,enumerator_id,string,Enumerator ID,ENUM_01-ENUM_24,,N
+survey,form_version,string,Form version used (latest = v1.2),,,N
+survey,interview_date,date,Date of interview,ISO 8601,,N
+survey,start_time,string,Interview start time,HH:MM,,N
+survey,duration_min,float,Interview duration,minutes,,N
+survey,submission_date,date,Date submitted to server,ISO 8601,,N
+survey,gps_lat,float,Latitude of interview,decimal degrees,,N
+survey,gps_lon,float,Longitude of interview,decimal degrees,,N
+survey,programme_participant,int,Programme participant household,0|1,,N
+survey,resp_sex,category,Respondent sex,F|M,,N
+survey,resp_age,int,Respondent age,"years, valid 15-95",,N
+survey,hh_size,int,Household size,"persons, valid 1-20",,N
+survey,resp_pregnant,float,Pregnancy module; asked only of females 15-49,0|1|blank,,N
+survey,land_area_ha,float,Total cultivated land,hectares,,N
+survey,maize_area_ha,float,Area under maize (main season),hectares,Maize yield,N
+survey,maize_prod_kg,int,Maize production (main season),kg,Maize yield,N
+survey,maize_yield_kg_ha,float,Calculated yield = prod / area,"kg/ha, plausible 150-8,000",Maize yield,Y
+survey,fcs_staples,int,Days in past 7 that staples group was eaten,0-7,FCS,N
+survey,fcs_pulses,int,Days in past 7 that pulses group was eaten,0-7,FCS,N
+survey,fcs_veg,int,Days in past 7 that veg group was eaten,0-7,FCS,N
+survey,fcs_fruit,int,Days in past 7 that fruit group was eaten,0-7,FCS,N
+survey,fcs_meat,int,Days in past 7 that meat group was eaten,0-7,FCS,N
+survey,fcs_dairy,int,Days in past 7 that dairy group was eaten,0-7,FCS,N
+survey,fcs_sugar,int,Days in past 7 that sugar group was eaten,0-7,FCS,N
+survey,fcs_oil,int,Days in past 7 that oil group was eaten,0-7,FCS,N
+survey,fcs_score,float,Calculated FCS,0-112,FCS,Y
+survey,rcsi_less_pref,int,Days in past 7: less pref,0-7,rCSI,N
+survey,rcsi_borrow,int,Days in past 7: borrow,0-7,rCSI,N
+survey,rcsi_limit_portion,int,Days in past 7: limit portion,0-7,rCSI,N
+survey,rcsi_restrict_adult,int,Days in past 7: restrict adult,0-7,rCSI,N
+survey,rcsi_reduce_meals,int,Days in past 7: reduce meals,0-7,rCSI,N
+survey,rcsi_score,float,Calculated rCSI,0-56,rCSI,Y
+survey,hhs_q1,int,HHS item 1 occurrence (past 30 days),0|1,HHS,N
+survey,hhs_f1,float,HHS item 1 frequency; asked only if occurrence = 1,1 rarely|2 sometimes|3 often,HHS,N
+survey,hhs_q2,int,HHS item 2 occurrence (past 30 days),0|1,HHS,N
+survey,hhs_f2,float,HHS item 2 frequency; asked only if occurrence = 1,1 rarely|2 sometimes|3 often,HHS,N
+survey,hhs_q3,int,HHS item 3 occurrence (past 30 days),0|1,HHS,N
+survey,hhs_f3,float,HHS item 3 frequency; asked only if occurrence = 1,1 rarely|2 sometimes|3 often,HHS,N
+survey,hhs_score,int,Calculated HHS,0-6,HHS,Y
+survey,prac_improved_seed,int,Adopted practice: improved seed,0|1,Practices adoption,N
+survey,prac_row_planting,int,Adopted practice: row planting,0|1,Practices adoption,N
+survey,prac_composting,int,Adopted practice: composting,0|1,Practices adoption,N
+survey,prac_intercropping,int,Adopted practice: intercropping,0|1,Practices adoption,N
+survey,prac_post_harvest,int,Adopted practice: post harvest,0|1,Practices adoption,N
+survey,practices_n,int,Count of practices adopted,0-5,Practices adoption,Y
+survey,adopted_2plus,int,Adopted >=2 practices,0|1,Practices adoption,Y
+survey,income_usd_month,float,Household income last 30 days,USD,Income / VSLA savings,N
+survey,vsla_member,int,VSLA member,0|1,Income / VSLA savings,N
+survey,vsla_savings_usd,float,VSLA savings balance; blank if not a member,USD,Income / VSLA savings,N
+training_log,participant_id,string,Partner-issued participant ID (A-/B- prefix),,Farmers trained,N
+training_log,partner,category,Implementing partner,Partner A|Partner B,Farmers trained,N
+training_log,district,category,District of training,,Farmers trained,N
+training_log,hh_id,string,Household ID if registered in the evaluation registry; blank otherwise,,Farmers trained,N
+training_log,member_id,float,Roster member number within household,,Farmers trained,N
+training_log,full_name,string,Synthetic participant name (no real persons),,Farmers trained,N
+training_log,sex,category,Sex recorded by partner,F|M,Farmers trained,N
+training_log,age,int,Age,years,Farmers trained,N
+training_log,training_date,date,Date of training,ISO 8601,Farmers trained,N
+training_log,quarter,string,Calendar quarter of training,e.g. 2024Q2,Farmers trained,Y
+training_log,topic,string,Training topic,,Farmers trained,N
+hh_roster,hh_id,string,Household ID,,Farmers trained,N
+hh_roster,member_id,int,Member number (1 = respondent),,Farmers trained,N
+hh_roster,sex,category,Member sex,F|M,Farmers trained,N
+hh_roster,age,int,Member age,years,Farmers trained,N
+partner_reports,partner,category,Reporting partner,,Farmers trained,N
+partner_reports,quarter,string,Reporting quarter,,Farmers trained,N
+partner_reports,reported_total_trained,int,Total farmers trained as reported by partner,count,Farmers trained,N
+partner_reports,reported_female,int,Female farmers trained as reported,count,Farmers trained,N
+partner_reports,reported_male,int,Male farmers trained as reported,count,Farmers trained,N
+donor_report,indicator,string,Indicator name,,Farmers trained,N
+donor_report,period,string,Reporting period,,Farmers trained,N
+donor_report,reported_value,int,Figure reported to donor,count,Farmers trained,N

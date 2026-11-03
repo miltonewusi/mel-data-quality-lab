@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this lab in training or research, please cite it."
+title: "mel-dq-lab: a synthetic data-quality lab for food security and livelihoods MEL"
+type: software
+version: 0.1.0
+date-released: 2026-11-03
+license: MIT
+authors:
+  - family-names: "REPLACE"
+    given-names: "YOUR NAME"
+repository-code: "https://github.com/YOUR-USER/mel-dq-lab"
+keywords: [data quality, MEL, food security, livelihoods, synthetic data, DQA]

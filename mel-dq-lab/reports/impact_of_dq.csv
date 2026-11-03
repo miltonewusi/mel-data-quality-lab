@@ -1,0 +1,5 @@
+scenario,hh_rounds,participants_change,comparison_change,did,did_bias_vs_truth,participant_change_bias
+"A. Truth (clean, complete panel)",2400,5.22,1.17,4.05,0.0,0.0
+B. Raw data as delivered (no cleaning),2245,5.49,1.19,4.3,0.25,0.27
+"C. Cleaned (flagged records removed, matched panel)",1774,5.21,1.49,3.72,-0.33,-0.01
+D. Cleaned + attrition weights (IPW),1774,5.65,1.87,3.78,-0.27,0.43

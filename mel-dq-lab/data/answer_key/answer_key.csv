@@ -1,0 +1,646 @@
+error_id,error_name,dq_dimension,table,level,entity_key,field,n_affected,note
+1,Duplicate survey records,Integrity,survey,record,S003601,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003602,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003603,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003604,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003605,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003606,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003607,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003608,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003609,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003610,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003611,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003612,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003613,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003614,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003615,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003616,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003617,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003618,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003619,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003620,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003621,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003622,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003623,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003624,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003625,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003626,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003627,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003628,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003629,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003630,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003631,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003632,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003633,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003634,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003635,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003636,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003637,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003638,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003639,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003640,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003641,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003642,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003643,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003644,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003645,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003646,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003647,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003648,all,1,Re-submission of an existing HH-round
+1,Duplicate survey records,Integrity,survey,record,S003649,all,1,Re-submission of an existing HH-round
+2,Enumerator fabrication,Reliability,survey,enumerator,ENUM_07,"fcs_*, rcsi_*, duration_min",102,"Rounds midline, endline: cloned response templates, 8-13 min interviews"
+2,Enumerator fabrication,Reliability,survey,enumerator,ENUM_20,"fcs_*, rcsi_*, prac_*",41,35% of records fabricated with plausible values; only detectable by field verification
+3,"Digit preference / heaping (land, production)",Precision,survey,dataset,dataset,"land_area_ha, maize_prod_kg",1165,"Land rounded to 0.5 ha, production to 50 kg"
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000155,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000164,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000186,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000230,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000321,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000328,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000330,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000406,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000410,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000414,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000417,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000483,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000501,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000555,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000648,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000684,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000735,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000747,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000796,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000855,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S000857,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S001009,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S001028,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S001142,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S001261,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S001280,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S001336,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S001477,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S001513,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S001764,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S001883,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S001983,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002074,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002147,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002177,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002194,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002198,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002225,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002248,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002256,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002330,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002390,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002432,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002446,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002494,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002530,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002556,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002582,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002600,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002661,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002690,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002785,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002810,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002835,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002865,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002880,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002906,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002922,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002932,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002950,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S002982,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S003032,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S003081,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S003085,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S003216,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S003316,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S003368,maize_prod_kg,1,50-kg bags entered as kg
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S003407,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S003421,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S003451,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S003452,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S003479,"land_area_ha,maize_area_ha",1,Acres entered as hectares
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,survey,record,S003566,maize_prod_kg,1,50-kg bags entered as kg
+5,Impossible values,Validity,survey,record,S000137,resp_age,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S000180,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S000182,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S000307,maize_prod_kg,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S000334,resp_age,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S000425,fcs_meat,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S000429,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S000550,fcs_veg,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S000678,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S000749,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S000864,maize_prod_kg,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S000872,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S000875,maize_prod_kg,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001119,resp_age,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001136,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001229,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001359,resp_age,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001427,fcs_pulses,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001478,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001558,maize_prod_kg,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001598,resp_age,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001862,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001913,fcs_meat,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001924,maize_prod_kg,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001962,resp_age,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001976,resp_age,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S001998,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S002053,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S002094,fcs_veg,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S002113,fcs_staples,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S002273,fcs_meat,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S002384,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S002396,maize_prod_kg,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S002840,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S002975,resp_age,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S003034,maize_prod_kg,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S003184,maize_prod_kg,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S003278,fcs_fruit,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S003425,resp_age,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S003427,resp_age,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S003431,hh_size,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S003500,maize_prod_kg,1,Out-of-range value
+5,Impossible values,Validity,survey,record,S003557,hh_size,1,Out-of-range value
+6,Skip-logic violations,Integrity,survey,record,S000007,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000041,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000064,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S000110,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S000144,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000154,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000212,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000222,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000240,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000290,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000313,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000382,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000391,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000464,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000465,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000511,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000584,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000589,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000608,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S000620,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S000671,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S000682,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000697,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000701,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000714,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000729,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000765,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000842,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S000859,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S000890,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000894,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000928,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S000944,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001026,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001051,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001075,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001095,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S001096,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001106,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001167,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001182,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001189,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001197,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001228,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001230,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S001249,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001288,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001309,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001324,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001329,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001357,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001365,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001402,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S001474,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001526,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001531,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001578,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001585,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001602,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001637,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S001738,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S001760,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001806,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001807,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S001903,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001909,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001915,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001923,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S001951,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S002042,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002070,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002093,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002117,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002129,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002144,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002152,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002158,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002159,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002181,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002186,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002207,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002209,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002276,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002339,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002397,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002405,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002427,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002438,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002448,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002491,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002559,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002586,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002606,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002633,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002660,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002682,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002766,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002768,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002773,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002808,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002831,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002841,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002924,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002945,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002953,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002980,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S002991,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003004,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003058,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S003105,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003131,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003148,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003177,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003186,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003253,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003256,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003260,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003276,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003292,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003311,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003323,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003374,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003380,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S003512,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003513,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003540,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+6,Skip-logic violations,Integrity,survey,record,S003548,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003560,hhs_f1,1,HHS frequency answered though occurrence = No
+6,Skip-logic violations,Integrity,survey,record,S003595,resp_pregnant,1,Pregnancy module answered by male respondent (old form v1.0)
+7,Straight-lining on rCSI,Reliability,survey,record,S000141,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000293,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000296,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000341,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000397,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000508,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000536,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000569,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000591,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000658,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000711,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000717,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000779,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000792,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000889,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S000974,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001032,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001037,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001074,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001110,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001145,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001147,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001163,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001166,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001168,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001243,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001259,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001286,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001295,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001374,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001436,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001446,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001503,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001546,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001668,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001732,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001811,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001819,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001839,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001842,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001858,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S001906,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002001,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002143,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002231,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002278,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002357,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002479,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002511,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002519,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002641,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002719,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002734,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002748,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002795,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002809,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002870,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002899,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002928,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002984,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S002994,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S003054,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S003245,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S003430,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S003477,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S003532,rcsi_*,1,All five rCSI items identical
+7,Straight-lining on rCSI,Reliability,survey,record,S003585,rcsi_*,1,All five rCSI items identical
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000002,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000076,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000128,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000130,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000199,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000413,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000516,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000595,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000703,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000777,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000784,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000819,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000822,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000827,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S000912,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S001021,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S001171,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S001211,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S001278,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S001320,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S001575,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S001656,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S001696,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002078,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002130,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002253,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002358,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002406,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002484,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002488,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002497,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002500,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002504,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002539,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002562,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002580,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002584,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002624,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002631,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002667,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002686,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002691,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002693,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002697,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002711,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002737,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002823,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002847,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002858,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002871,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002905,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002921,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002943,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S002990,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003026,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003052,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003067,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003084,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003147,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003176,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003231,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003251,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003302,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003354,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003355,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003358,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003367,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003399,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003403,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003412,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003417,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003439,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003486,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003507,"gps_lat,gps_lon",1,Coordinates at field office
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003509,"gps_lat,gps_lon",1,Coordinates inside another district
+8,Implausible GPS (outside district / at office),Reliability,survey,record,S003559,"gps_lat,gps_lon",1,Coordinates at field office
+9,Income missing not-at-random,Completeness,survey,dataset,dataset,income_usd_month,418,Probability of missing rises with income
+10,Differential panel attrition,Representativeness,survey,dataset,dataset,"hh_id,round",284,Household drop-out hazard decreases with wealth (poorer HHs leave)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01253,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01254,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01255,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01256,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01257,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01258,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01259,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01260,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01261,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01262,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01263,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01264,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01265,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01266,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01267,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01268,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01269,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01270,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01271,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01272,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01273,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01274,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01275,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01276,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01277,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01278,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01279,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,A-01280,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01149,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01150,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01151,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01152,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01153,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01154,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01155,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01156,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01157,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01158,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01159,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01160,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01161,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01162,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01163,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01164,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01165,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01166,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01167,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01168,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01169,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01170,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01171,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01172,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01173,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01174,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01175,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01176,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01177,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01178,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01179,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01180,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01181,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01182,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01183,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01184,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01185,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01186,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01187,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01188,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01189,full_name,1,Second partner registered same person (name variant)
+11,Beneficiary double-counting across partners,Integrity,training_log,record,B-01190,full_name,1,Second partner registered same person (name variant)
+12,Date / timeliness problems,Timeliness,survey,record,S000008,interview_date,1,Interview before programme start
+12,Date / timeliness problems,Timeliness,survey,record,S000012,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000014,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000046,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000051,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000060,submission_date,1,Submitted before interview date
+12,Date / timeliness problems,Timeliness,survey,record,S000149,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000173,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000226,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000316,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000327,submission_date,1,Submitted before interview date
+12,Date / timeliness problems,Timeliness,survey,record,S000353,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000376,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000378,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000532,interview_date,1,Interview before programme start
+12,Date / timeliness problems,Timeliness,survey,record,S000553,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000577,interview_date,1,Interview before programme start
+12,Date / timeliness problems,Timeliness,survey,record,S000590,interview_date,1,Interview before programme start
+12,Date / timeliness problems,Timeliness,survey,record,S000613,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000615,interview_date,1,Interview before programme start
+12,Date / timeliness problems,Timeliness,survey,record,S000644,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000683,submission_date,1,Submitted before interview date
+12,Date / timeliness problems,Timeliness,survey,record,S000695,submission_date,1,Submitted before interview date
+12,Date / timeliness problems,Timeliness,survey,record,S000700,submission_date,1,Submitted before interview date
+12,Date / timeliness problems,Timeliness,survey,record,S000736,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000795,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000808,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000815,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000830,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000866,interview_date,1,Interview before programme start
+12,Date / timeliness problems,Timeliness,survey,record,S000899,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000953,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S000956,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001034,submission_date,1,Submitted before interview date
+12,Date / timeliness problems,Timeliness,survey,record,S001077,interview_date,1,Interview before programme start
+12,Date / timeliness problems,Timeliness,survey,record,S001105,interview_date,1,Interview before programme start
+12,Date / timeliness problems,Timeliness,survey,record,S001112,interview_date,1,Interview before programme start
+12,Date / timeliness problems,Timeliness,survey,record,S001130,interview_date,1,Interview before programme start
+12,Date / timeliness problems,Timeliness,survey,record,S001150,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001152,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001200,interview_date,1,Interview before programme start
+12,Date / timeliness problems,Timeliness,survey,record,S001252,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001287,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001307,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001490,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001517,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001525,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001554,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001556,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001581,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001601,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001661,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001663,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001774,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001830,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001888,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001892,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001914,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001956,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S001972,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002105,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002127,submission_date,1,Submitted before interview date
+12,Date / timeliness problems,Timeliness,survey,record,S002141,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002183,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002185,submission_date,1,Submitted before interview date
+12,Date / timeliness problems,Timeliness,survey,record,S002261,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002268,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002288,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002301,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002310,submission_date,1,Submitted before interview date
+12,Date / timeliness problems,Timeliness,survey,record,S002347,submission_date,1,Submitted before interview date
+12,Date / timeliness problems,Timeliness,survey,record,S002356,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002409,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002524,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002542,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002717,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002718,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002720,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002738,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002815,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S002936,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003057,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003069,submission_date,1,Submitted before interview date
+12,Date / timeliness problems,Timeliness,survey,record,S003098,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003162,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003203,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003217,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003218,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003268,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003304,submission_date,1,Submitted before interview date
+12,Date / timeliness problems,Timeliness,survey,record,S003314,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003461,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003463,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003470,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003473,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003476,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003482,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003547,submission_date,1,Late submission (>7 days)
+12,Date / timeliness problems,Timeliness,survey,record,S003551,submission_date,1,Late submission (>7 days)
+13,Partner reports differ from raw data,Integrity,partner_reports,record,Partner A|2023Q2,reported_*,1,Overstated by ~13%
+13,Partner reports differ from raw data,Integrity,partner_reports,record,Partner A|2024Q2,reported_*,1,Overstated by ~14%
+13,Partner reports differ from raw data,Integrity,partner_reports,record,Partner A|2025Q1,reported_*,1,Overstated by ~13%
+13,Partner reports differ from raw data,Integrity,partner_reports,record,Partner B|2023Q2,reported_male,1,Female + male does not equal total
+13,Partner reports differ from raw data,Integrity,partner_reports,record,Partner B|2023Q4,reported_male,1,Female + male does not equal total
+13,Partner reports differ from raw data,Integrity,partner_reports,record,Partner B|2024Q3,reported_*,1,Overstated by ~14%
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00010,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00073,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00075,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00081,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00105,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00123,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00138,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00194,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00215,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00265,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00298,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00325,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,A-00339,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00013,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00020,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00090,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00091,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00100,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00130,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00159,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00161,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00201,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00235,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00237,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00251,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00278,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00296,sex,1,Sex differs from household roster
+14,Sex inconsistent with household roster,Validity,training_log,record,B-00327,sex,1,Sex differs from household roster

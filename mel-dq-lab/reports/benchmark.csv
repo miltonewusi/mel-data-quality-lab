@@ -1,0 +1,15 @@
+error_id,error,dimension,level,injected,flagged,true_positives,recall,precision,detected,checks
+1,Duplicate survey records,Integrity,record,49,49,49,1.0,1.0,True,R01
+2,Enumerator fabrication,Reliability,enumerator,2,1,1,0.5,1.0,True,"B01,E01,E02,E03"
+3,"Digit preference / heaping (land, production)",Precision,dataset,1165,1,1,1.0,,True,D01
+4,"Unit mix-ups (acres vs ha, bags vs kg)",Validity,record,73,103,70,0.959,0.796,True,"R04,R05,R06"
+5,Impossible values,Validity,record,43,95,43,1.0,0.937,True,"R02,R03,R04,R05"
+6,Skip-logic violations,Integrity,record,129,132,129,1.0,1.0,True,"R07,R08,R15"
+7,Straight-lining on rCSI,Reliability,record,67,68,67,1.0,0.985,True,R09
+8,Implausible GPS (outside district / at office),Reliability,record,76,76,76,1.0,1.0,True,"R10,R11"
+9,Income missing not-at-random,Completeness,dataset,418,1,1,1.0,,True,D02
+10,Differential panel attrition,Representativeness,dataset,284,1,1,1.0,,True,D03
+11,Beneficiary double-counting across partners,Integrity,record,70,65,55,0.786,0.846,True,T01
+12,Date / timeliness problems,Timeliness,record,99,109,99,1.0,1.0,True,"R12,R13,R14"
+13,Partner reports differ from raw data,Integrity,record,6,6,6,1.0,1.0,True,"X01,X02"
+14,Sex inconsistent with household roster,Validity,record,28,28,28,1.0,1.0,True,T02
